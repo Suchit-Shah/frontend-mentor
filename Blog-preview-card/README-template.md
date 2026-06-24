@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click Me](https://your-solution-url.com)
-- Live Site URL: [Click Me](https://your-live-site-url.com)
+- Solution URL: [Click Me](https://www.frontendmentor.io/solutions/blog-preview-card-Jq-wmzysA1)
+- Live Site URL: [Click Me](https://suchit-shah.github.io/frontend-mentor/Blog-preview-card/)
 
 ## My process
 
