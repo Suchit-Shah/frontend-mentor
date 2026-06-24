@@ -1,0 +1,105 @@
+*{
+    color: white;
+    box-sizing: border-box;
+    text-align: center;
+
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: hsl(0, 0%, 8%);
+    font-family: "Inter", sans-serif;
+
+    min-height: 100vh;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    background-color: hsl(0, 0%, 12%);
+    border-radius: 0.75rem;
+
+    max-width: 19.5rem;
+
+    padding: 2rem;
+    margin: 0 2rem;
+}
+
+.pic{
+    overflow: hidden;
+
+    border-radius: 50%;
+
+    width: 27%;
+    aspect-ratio: 1/1;
+}
+
+img{
+    display: block;
+    width: 100%;
+}
+
+.info{
+    margin: 1.65rem 0;
+}
+
+.name{
+    font-weight: 600;
+    font-size: 1.25rem;
+
+    margin-bottom: 0.5rem;
+}
+
+.address{
+    color: hsl(75, 94%, 57%);
+
+    font-weight: 600;
+    font-size: 0.7rem;
+}
+
+.description{
+    font-weight: 400;
+    font-size: 0.65rem;
+
+    margin-bottom: 1.65rem;
+}
+
+.links{
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 0.5rem;
+
+    font-weight: 700;
+    font-size: 0.7rem;
+
+    width: 100%;
+    
+    padding: 0.75rem;
+    margin: 0.35rem 0;
+}
+
+.links:hover{
+    color: black;
+    background-color: hsl(75, 94%, 57%);
+}
+
+a{
+    display: block;
+    text-decoration: none;
+    width: 100%;
+}
+
+#top{
+    margin-top: 0;
+}
+
+#bottom{
+    margin-bottom: 0;
+}
