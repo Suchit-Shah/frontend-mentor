@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click Me](https://your-solution-url.com)
-- Live Site URL: [Click Me](https://your-live-site-url.com)
+- Solution URL: [Click Me](https://www.frontendmentor.io/solutions/results-summary-component-np5-Lm4-W_)
+- Live Site URL: [Click Me](https://suchit-shah.github.io/frontend-mentor/Results-summary-component/)
 
 ## My process
 
