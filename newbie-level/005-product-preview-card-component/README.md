@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Click Me](https://www.frontendmentor.io/solutions/product-preview-card-component-lzeOCF6IWl)
-- Live Site URL: [Click Me](https://suchit-shah.github.io/frontend-mentor/newbie-level/product-preview-card-component/)
+- Live Site URL: [Click Me](https://suchit-shah.github.io/frontend-mentor/newbie-level/005-product-preview-card-component/)
 
 ## My process
 
@@ -47,11 +47,11 @@ I learnt that we cannot update source link of image using media queries in css, 
 
 ```css
 <div class="pic">
-            <picture>
-                <source media="(max-width: 37rem)" srcset="./images/image-product-mobile.jpg">
-                <img src="./images/image-product-desktop.jpg" alt="Gabrielle Essence">
-            </picture>
-        </div>
+    <picture>
+        <source media="(max-width: 37rem)" srcset="./images/image-product-mobile.jpg">
+        <img src="./images/image-product-desktop.jpg" alt="Gabrielle Essence">
+    /picture>
+</div>
 ```
 
 ### Useful resources
