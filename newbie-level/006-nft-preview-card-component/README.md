@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click Me](https://your-solution-url.com)
-- Live Site URL: [Click Me](https://your-live-site-url.com)
+- Solution URL: [Click Me](https://www.frontendmentor.io/solutions/006-nft-preview-card-component-hHwQbdMqgR)
+- Live Site URL: [Click Me](https://suchit-shah.github.io/frontend-mentor/newbie-level/006-nft-preview-card-component/)
 
 ## My process
 
