@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Click Me](https://www.frontendmentor.io/solutions/results-summary-component-np5-Lm4-W_)
-- Live Site URL: [Click Me](https://suchit-shah.github.io/frontend-mentor/Results-summary-component/)
+- Live Site URL: [Click Me](https://suchit-shah.github.io/frontend-mentor/newbie-level/results-summary-component/)
 
 ## My process
 

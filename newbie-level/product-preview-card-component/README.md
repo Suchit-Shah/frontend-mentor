@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Click Me](https://www.frontendmentor.io/solutions/product-preview-card-component-lzeOCF6IWl)
-- Live Site URL: [Click Me](https://suchit-shah.github.io/frontend-mentor/Product-preview-card-component/)
+- Live Site URL: [Click Me](https://suchit-shah.github.io/frontend-mentor/newbie-level/product-preview-card-component/)
 
 ## My process
 

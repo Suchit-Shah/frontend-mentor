@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Click Me](https://www.frontendmentor.io/solutions/blog-preview-card-Jq-wmzysA1)
-- Live Site URL: [Click Me](https://suchit-shah.github.io/frontend-mentor/Blog-preview-card/)
+- Live Site URL: [Click Me](https://suchit-shah.github.io/frontend-mentor/newbie-level/blog-preview-card/)
 
 ## My process
 
