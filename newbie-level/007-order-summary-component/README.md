@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click Me](https://your-solution-url.com)
-- Live Site URL: [Click Me](https://your-live-site-url.com)
+- Solution URL: [Click Me](https://www.frontendmentor.io/solutions/007-order-summary-component-AnmY_TithM)
+- Live Site URL: [Click Me](https://suchit-shah.github.io/frontend-mentor/newbie-level/007-order-summary-component/)
 
 ## My process
 
