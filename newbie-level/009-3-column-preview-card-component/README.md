@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click Me](https://your-solution-url.com)
-- Live Site URL: [Click Me](https://your-live-site-url.com)
+- Solution URL: [Click Me](https://www.frontendmentor.io/solutions/009-3-column-preview-card-component-xWWdwS7td1)
+- Live Site URL: [Click Me](https://suchit-shah.github.io/frontend-mentor/newbie-level/009-3-column-preview-card-component/)
 
 ## My process
 
