@@ -1,0 +1,151 @@
+*{
+    box-sizing: border-box;
+
+    font-family: "Karla", sans-serif;
+    font-weight: 400;
+
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: hsl(204, 43%, 93%);
+
+    min-height: 100vh;
+    min-width: 100vw;
+}
+
+.card{
+    overflow: hidden;
+
+    display: flex;
+    flex-direction: column;
+
+    border-radius: 0.5rem;
+    box-shadow: 0 0.5rem 2rem hsl(218, 22%, 67%);
+
+    height: 25rem;
+
+    margin: 2rem;
+}
+
+.row1, .col1, .col2{
+    padding: 2rem;
+}
+
+.row1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    flex: 0 0 45%;
+
+    background-color: white;
+}
+
+.rh{
+    color: hsl(179, 62%, 43%);
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+.rt{
+    color: hsl(71, 73%, 54%);
+    font-weight: 700;
+    font-size: 1rem;
+}
+
+.ri{
+    color: hsl(218, 22%, 67%);
+    font-size: 0.9rem;
+    line-height: 1.5;
+}
+
+.row2{
+    display: flex;
+    flex: 0 0 55%;
+}
+
+.col1, .col2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    flex: 0 0 50%;
+
+    color: white;
+}
+
+.col1{
+    background-color: hsl(179, 62%, 43%);
+}
+
+.c1h{
+    font-weight: 700;
+}
+
+.bar{
+    display: flex;
+    align-items: center;
+}
+
+.price{
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+.time{
+    color: hsl(204, 43%, 93%);
+    font-size: 0.85rem;
+    margin-left: 0.75rem;
+}
+
+.c1i{
+    font-size: 0.85rem;
+    margin-top: -1rem;
+}
+
+.btn{
+    background-color: hsl(71, 73%, 54%);
+    border-radius: 0.25rem;
+    box-shadow: 0 0.5rem 2rem hsl(179, 62%, 35%);
+
+    font-weight: 700;
+    font-size: 0.85rem;
+    text-align: center;
+    
+    padding: 0.75rem;
+}
+
+.btn:hover{
+    cursor: pointer;
+}
+
+.col2{
+    background-color: hsl(179, 62%, 43%);
+    opacity: 0.8;
+}
+
+.c2i{
+    font-size: 0.75rem;
+    line-height: 1.5;
+}
+
+@media (max-width: 38rem){
+    .card{
+        flex-direction: column;
+        height: 48rem;
+        max-width: 20rem;
+    }
+    .row1{
+        flex: 0 0 35%;
+    }
+    .row2{
+        flex-direction: column;
+        flex: 0 0 65%;
+    }
+}
