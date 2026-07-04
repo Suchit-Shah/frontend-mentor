@@ -46,7 +46,7 @@ I learnt about breakpoints and difference between align-items and align-self
 
 ### Useful resources
 
-- [MDN](https://developer.mozilla.org/en-US/) - Documentation
+- [MDN](https://developer.mozilla.org/en-US/) - Documentation Purpose
 
 ## Author
 
