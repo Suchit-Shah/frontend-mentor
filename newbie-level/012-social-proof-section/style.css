@@ -1,0 +1,266 @@
+*{
+    box-sizing: border-box;
+    font-family: "League Spartan", sans-serif;
+
+    padding: 0;
+    margin: 0;
+}
+
+img{
+    display: block;
+    aspect-ratio: 1/1;
+}
+
+body, .r1, .r2, .bar, .star, .profile, .name, .buyer{
+    display: flex;
+}
+
+body{
+    justify-content: center;
+    align-items: center;
+
+    background-image: url("./images/bg-pattern-top-desktop.svg"), url("./images/bg-pattern-bottom-desktop.svg");
+    background-position: top left, bottom right;
+    background-repeat: no-repeat, no-repeat;
+
+    min-height: 100vh;
+    min-width: 100vw;
+}
+
+.body, .c1, .c2, .card, .info{
+    display: flex;
+    flex-direction: column;
+}
+
+.body{
+    height: 80vh;
+    width: 80vw;
+}
+
+.r1, .r2, .c1, .c2, .name, .buyer{
+    flex-basis: 50%;
+}
+
+.c1, .c2, .r2{
+    padding: 2rem;
+}
+
+.c1{
+    justify-content: space-between;
+}
+
+.title{
+    color: hsl(300, 43%, 22%);
+
+    font-weight: 700;
+    font-size: 3.5rem;
+    letter-spacing: -0.05rem;
+
+    padding-right: 4rem;
+}
+
+.description{
+    color: hsl(303, 10%, 53%);
+
+    font-weight: 500;
+    font-size: 1.35rem;
+    line-height: 1;
+
+    padding-bottom: 1.5rem;
+}
+
+.c2{
+    justify-content: space-between;
+    padding-top: 6rem;
+}
+
+.bar{
+    align-items: center;
+
+    background-color: hsl(300, 24%, 96%);
+    border-radius: 0.5rem;
+
+    width: 25rem;
+
+    padding: 1.25rem 1.75rem;
+}
+
+#b1{
+    align-self: flex-start;
+}
+
+#b2{
+    align-self: center;
+}
+
+#b3{
+    align-self: flex-end;
+}
+
+.star{
+    width: 6rem;
+    justify-content: space-between;
+}
+
+#s{
+    width: 0.9rem;
+}
+
+.rating{
+    color: hsl(300, 43%, 22%);
+
+    font-weight: 700;
+    font-size: 1rem;
+
+    margin-left: 1.75rem;
+}
+
+.r2{
+    justify-content: space-between;
+}
+
+.card{
+    flex-basis: 32%;
+    justify-content: space-between;
+
+    color: hsl(300, 24%, 96%);
+    background-color: hsl(300, 43%, 22%);
+    border-radius: 0.75rem;
+
+    height: 13.5rem;
+
+    padding: 2rem;
+}
+
+#c1{
+    align-self: flex-start;
+}
+
+#c2{
+    align-self: center;
+}
+
+#c3{
+    align-self: flex-end;
+}
+
+.profile{
+    align-items: center;
+}
+
+#p{
+    width: 2.5rem;
+    border-radius: 50%;
+}
+
+.info{
+    justify-content: space-evenly;
+    align-self: center;
+
+    height: 100%;
+
+    margin-left: 1rem;
+}
+
+.name, .buyer{
+    justify-content: center;
+    align-items: center;
+}
+
+.name{
+    font-weight: 700;
+}
+
+.buyer{
+    color: hsl(333, 80%, 67%);
+    font-weight: 500;
+}
+
+.review{
+    font-weight: 400;
+    line-height: 1.35;
+}
+
+@media(width<80.15rem){
+    .body{
+        height: 90vh;
+        width: 90vw;
+    }
+    .r1{
+        flex-basis: 45%;
+    }
+    .c1, .c2{
+        padding: 2rem 1rem;
+    }
+    .title, .description{
+        padding: 0;
+    }
+    .c2{
+        padding-top: 6rem;
+    }
+    .r2{
+        flex-basis: 55%;
+    }    
+    .card{
+        height: 16rem;
+    }
+}
+
+@media(width<61.25rem){
+    .bar{
+        width: 24rem;
+        padding: 1.25rem;
+    }
+    .rating{
+        margin-left: 1.25rem;
+    }
+    .card{
+        height: 18rem;
+    }
+}
+
+@media(width<54.5rem){
+    body{
+        background-image: url("./images/bg-pattern-top-mobile.svg"), url("./images/bg-pattern-bottom-mobile.svg");
+    }
+    .body{
+        height: auto;
+        width: 100%;
+        max-width: 22rem;
+    }
+    .r1, .r2, .c1, .c2, .card{
+        flex-basis: auto;
+    }
+    .r1, .r2, .bar{
+        flex-direction: column;
+    }
+    .r2, .c1, .c2{
+        padding: 1rem;
+    }
+    .r1{
+        text-align: center;
+    }
+    .description{
+        margin-top: 1rem;
+    }
+    .c2{
+        height: 15rem;
+    }
+    .bar{
+        width: 100%;
+        padding: 0.75rem;
+    }
+    .rating{
+        margin-top: 0.25rem;
+    }
+    .card{
+        height: 14rem;
+        margin: 0.5rem 0;
+    }
+    #c1{
+        margin-top: 0;
+    }
+    #c3{
+        margin-bottom: 0;
+    }
+}
