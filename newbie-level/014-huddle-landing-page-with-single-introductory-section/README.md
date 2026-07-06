@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click Me](https://your-solution-url.com)
-- Live Site URL: [Click Me](https://your-live-site-url.com)
+- Solution URL: [Click Me](https://www.frontendmentor.io/solutions/014-huddle-landing-page-with-single-introductory-section-f8hRp96fKf)
+- Live Site URL: [Click Me](https://suchit-shah.github.io/frontend-mentor/newbie-level/014-huddle-landing-page-with-single-introductory-section/)
 
 ## My process
 
