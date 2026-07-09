@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click Me](https://your-solution-url.com)
-- Live Site URL: [Click Me](https://your-live-site-url.com)
+- Solution URL: [Click Me](https://www.frontendmentor.io/solutions/017-article-preview-component-v1S4EHcCW7)
+- Live Site URL: [Click Me](https://suchit-shah.github.io/frontend-mentor/newbie-level/017-article-preview-component/)
 
 ## My process
 
