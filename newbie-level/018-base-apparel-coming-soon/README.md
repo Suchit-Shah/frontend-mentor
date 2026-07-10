@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click Me](https://www.frontendmentor.io/solutions/018-base-apparel-coming-soon-nQL7M7-ugE)
+- Live Site URL: [Click Me](https://suchit-shah.github.io/frontend-mentor/newbie-level/018-base-apparel-coming-soon/)
 
 ## My process
 
